@@ -88,4 +88,4 @@ Disciplina de **Programação de Sistemas Embarcados**
 ⭐ *"Aprender fazendo é a melhor forma de evoluir."*
 
 </div>
-:::writing{}
+
