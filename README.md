@@ -77,7 +77,7 @@ Cada pasta poderá conter:
 
 **Nathalia "asonozz" Nascimento**
 
-Curso de **Seu Curso**
+Curso de **TECI IOT 2026 / 1 M1 - Senai**
 
 Disciplina de **Programação de Sistemas Embarcados**
 
