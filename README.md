@@ -75,7 +75,7 @@ Cada pasta poderá conter:
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
+**Nathalia "asonozz" Nascimento**
 
 Curso de **Seu Curso**
 
